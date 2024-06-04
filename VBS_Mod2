@@ -1,4 +1,3 @@
-Attribute VB_Name = "Module1"
 Sub VBA_Mod2()
 
 Dim ticker As String
